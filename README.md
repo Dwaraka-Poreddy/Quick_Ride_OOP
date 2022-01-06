@@ -128,8 +128,8 @@ Quick-Ride-Java-OOPs-Project
 
 ## Author Info
 
-- LinkedIn - [Srinivas K](https://www.linkedin.com/in/srinivas-konduri/)
-- Github - [Srinivas K](https://github.com/srinivaskool)
+- LinkedIn - [Dwaraka Poreddy](https://www.linkedin.com/in/dwaraka-poreddy-3bbb231b1/)
+- Github - [Dwaraka Poreddy](https://github.com/Dwaraka-Poreddy)
 
 #### [Back To The Top](#Quick-Ride-Java-OOPs-Project)
 
